@@ -1,0 +1,11 @@
+version: "2"
+
+services:
+  app:
+    build: .
+    volumes:
+      - .:/usr/src/app
+    ports:
+      - "3010:3010"
+    command: sh run.sh
+
