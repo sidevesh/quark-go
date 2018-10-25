@@ -29,6 +29,5 @@ func main() {
     }()
     address = "http://"+ln.Addr().String()
   }
-  webview.Open("Quark", address, 400, 300, true)
+  webview.Open(APP_NAME, address, WINDOW_WIDTH, WINDOW_HEIGHT, WINDOW_RESIZABLE)
 }
-

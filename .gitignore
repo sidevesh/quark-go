@@ -1,4 +1,4 @@
 build/*
 web/*
-app.config
+config.go
 

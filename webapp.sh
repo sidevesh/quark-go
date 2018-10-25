@@ -6,4 +6,3 @@ if [ "$#" -ne 2 ]; then
 fi
 sh setup_build_dir.sh
 go build -o "build/$2" -ldflags "-X main.WEB_APP_ADDRESS=$1"
-
