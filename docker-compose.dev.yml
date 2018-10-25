@@ -8,4 +8,3 @@ services:
     ports:
       - "3010:3010"
     command: sh run.sh
-

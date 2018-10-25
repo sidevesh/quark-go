@@ -13,4 +13,3 @@ RUN apt-get update -yqq \
 RUN go get github.com/zserge/webview
 WORKDIR /usr/src/app
 CMD sh build.sh
-

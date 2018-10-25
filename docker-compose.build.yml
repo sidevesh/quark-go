@@ -6,4 +6,3 @@ services:
     volumes:
       - .:/usr/src/app
     command: sh build.sh
-
