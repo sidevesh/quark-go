@@ -5,4 +5,4 @@ services:
     build: .
     volumes:
       - .:/usr/src/app
-    command: sh webapp.sh https://trello.com Trello
+    command: sh webapp.sh https://www.google.com Google

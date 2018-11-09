@@ -1,0 +1,6 @@
+package main
+
+var APP_NAME = "Trello"
+var WINDOW_WIDTH = 800
+var WINDOW_HEIGHT = 480
+var WINDOW_RESIZABLE = true
