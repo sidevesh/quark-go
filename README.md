@@ -5,9 +5,8 @@ You can call go functions from the web app to achieve native functionality,
 lightweight alternative to electron
 Uses the awesome [webview](https://github.com/zserge/webview) project by [zserge](https://github.com/zserge)
 
-
-![web project](https://media.giphy.com/media/eUa3ywxwoBwwE/giphy.gif)
-![web app](https://media.giphy.com/media/6oCCk98unakbC/giphy.gif)
+![web app](docs/app.gif)
+![web project](docs/web.jpeg)
 
 ## Usage
 
